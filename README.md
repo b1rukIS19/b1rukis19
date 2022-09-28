@@ -9,6 +9,8 @@ Hello my name is Biruk Telelew i am a passionate software developer graduated fr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b1rukis19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b1rukis19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
