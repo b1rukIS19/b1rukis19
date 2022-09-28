@@ -2,7 +2,7 @@
 Hello my name is Biruk Telelew i am a passionate software developer graduated from aksum university<br>and worked on different companies using different languages, and i have my own startup called Habit Jobs which connects Employers <br>with professionals.
 
 
-## 🌐 Socials:
+## 🌐 Stack Overflow Profile:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11597122) 
 
 # 💻 Tech Stack:
