@@ -11,6 +11,6 @@ Stack Overflow Profile:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=b1rukis19&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b1rukis19&theme=dark&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1rukis19)](https://github.com/anuraghazra/github-readme-stats)
 
 
